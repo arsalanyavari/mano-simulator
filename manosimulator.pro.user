@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.15.1, 2021-07-12T03:58:50. -->
+<!-- Written by QtCreator 4.15.1, 2021-07-12T04:25:36. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -292,8 +292,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/arya/Desktop/mano/mano-simulator/manosimulator.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/arya/Desktop/mano/mano-simulator/manosimulator.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">manosimulator2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/arya/Desktop/mano-simulator/manosimulator.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/arya/Desktop/mano-simulator/manosimulator.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>

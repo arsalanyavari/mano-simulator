@@ -1374,6 +1374,6 @@ void MainWindow::on_next_btn_clicked()
 void MainWindow::on_actionAbout_Mano_simulator_triggered()
 {
     QMessageBox msgBox;
-    msgBox.setText("ARYA's basic mano computer. This program writed using C++ & QT framework and the source in my github account :)");
+    msgBox.setText("ARYA's basic mano computer. This program writed using C++ & QT framework and the source in my github account:\nhttps://github.com/arsalanyavari/mano-simulator    :)");
     msgBox.exec();
 }
