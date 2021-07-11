@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>openicon.png</file>
+        <file>newicon.png</file>
+        <file>saveasicon.png</file>
+        <file>saveicon.png</file>
+        <file>play-60.png</file>
+        <file>icons8-double-right-48.png</file>
+        <file>icons8-refresh-60.png</file>
+        <file>icons8-reset-48.png</file>
+        <file>logo.jpeg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
